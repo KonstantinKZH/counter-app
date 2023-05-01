@@ -1,0 +1,53 @@
+.item-counter{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.counter{
+    margin-bottom: 36px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.btn-counter{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 36px;
+    width: 500px;
+    height: 100px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    border: none;
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: #4191FF;
+    transition: all .3s ease;
+}
+
+.btn-counter:active{
+    transform: scale(0.96);
+}
+
+.btn-reset{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 100px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    border: none;
+    color: #FFFFFF;
+    background: #D45366;
+    border-radius: 20px;
+    transition: all .3s ease;
+}
+
+.btn-reset:active{
+    transform: scale(0.96);
+}
