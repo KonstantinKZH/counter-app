@@ -4,7 +4,7 @@
 Счётчик. При клике на кнопку увеличивает число на 1.
 
 ### Языки и техногии
-HTML, CSS. JavaScript
+HTML, CSS, JavaScript
 
 ### Изображения
 <div class="container" style="display: flex; justify-content: center; flex-direction: column; width: 100%;">
